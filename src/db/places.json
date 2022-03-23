@@ -1,0 +1,17 @@
+
+[
+    {"city": "Paris", "country": "France"},
+    {"city": "New York City", "country": "USA"},
+    {"city": "London", "country": "England"},
+    {"city": "Bangkok", "country": "Thailand"},
+    {"city": "Hong Kong", "country": "China"},
+    {"city": "Dubai", "country": "United Arab Emirates"},
+    {"city": "Singapore", "country": "Singapore"},
+    {"city": "Rome", "country": "Italy"},
+    {"city": "Macau", "country": "China"},
+    {"city": "Istanbul", "country": "Turkey"},
+    {"city": "Kuala Lumpur", "country": "Malaysia"},
+    {"city": "Delhi", "country": "India"},
+    {"city": "Tokyo", "country": "Japan"},
+    {"city": "Antalya", "country": "Turkey"}
+]
